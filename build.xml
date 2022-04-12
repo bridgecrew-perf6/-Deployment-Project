@@ -9,7 +9,7 @@
 	
 
   <!-- ====================================================================== -->
-  <!-- Import maven-build.xml into the current project                        -->
+  <!-- Import maven-build.xml into the current project hi                        -->
   <!-- ====================================================================== -->
 
   <import file="maven-build.xml"/>
