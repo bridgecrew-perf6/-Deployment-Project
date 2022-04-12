@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Heera" name="com.mcnz.FailMeMaybeTest" skipped="0" tests="1" time="0.121" timestamp="2022-04-11T21:41:20">
+  <properties>
+    <property name="sun.desktop" value="windows" />
+    <property name="ant.library.dir" value="C:\Users\syedf\.p2\pool\plugins\org.apache.ant_1.10.12.v20211102-1452\lib" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="project.build.directory" value="target" />
+    <property name="java.specification.version" value="11" />
+    <property name="ant.project.name" value="roshambo-from-maven" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="maven.reporting.outputDirectory" value="target/site" />
+    <property name="java.class.path" value="C:\Users\syedf\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\syedf\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\syedf\eclipse-workspace\rps-ant-master\target\classes;C:\Users\syedf\eclipse-workspace\rps-ant-master\target\test-classes;C:\Users\syedf\.p2\pool\plugins\org.apache.ant_1.10.12.v20211102-1452\lib\ant-launcher.jar;C:\Users\syedf\.p2\pool\plugins\org.apache.ant_1.10.12.v20211102-1452\lib\ant.jar;C:\Users\syedf\.p2\pool\plugins\org.apache.ant_1.10.12.v20211102-1452\lib\ant-junit.jar;C:\Users\syedf\.p2\pool\plugins\org.apache.ant_1.10.12.v20211102-1452\lib\ant-junit4.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://openjdk.java.net/" />
+    <property name="user.timezone" value="" />
+    <property name="maven.build.outputDir" value="target/classes" />
+    <property name="project.build.outputDirectory" value="target/classes" />
+    <property name="maven.build.testResourceDir.0" value="src/test/resources" />
+    <property name="java.vm.specification.version" value="11" />
+    <property name="os.name" value="Windows 11" />
+    <property name="maven.build.resourceDir.0" value="src/main/resources" />
+    <property name="ant.file.roshambo-from-maven" value="C:\Users\syedf\eclipse-workspace\rps-ant-master\maven-build.xml" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.mcnz.FailMeMaybeTest skipNonTests=false filtertrace=true haltOnError=true haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\syedf\eclipse-workspace\rps-ant-master\target\test-reports\TEST-com.mcnz.FailMeMaybeTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=C:\Users\syedf\eclipse-workspace\rps-ant-master\junitvmwatcher8659369221669652695.properties propsfile=C:\Users\syedf\eclipse-workspace\rps-ant-master\junit12064623589449618845.properties" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\syedf" />
+    <property name="maven.compiler.source" value="1.8" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2022-01-18" />
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.14" />
+    <property name="maven.build.testOutputDir" value="target/test-classes" />
+    <property name="file.separator" value="\" />
+    <property name="basedir" value="." />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="maven.build.srcDir.0" value="src/main/java" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="11" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="maven.build.dir" value="target" />
+    <property name="maven.build.testDir.0" value="src/test/java" />
+    <property name="user.script" value="" />
+    <property name="maven.build.finalName" value="roshambo" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="11.0.14+8-LTS-263" />
+    <property name="user.name" value="syedf" />
+    <property name="ant.file" value="C:\Users\syedf\eclipse-workspace\rps-ant-master\maven-build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="maven.settings.interactiveMode" value="true" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.project.invoked-targets" value="package" />
+    <property name="project.build.sourceEncoding" value="UTF-8" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="java.vendor.version" value="18.9" />
+    <property name="ant.core.lib" value="C:\Users\syedf\.p2\pool\plugins\org.apache.ant_1.10.12.v20211102-1452\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\syedf\AppData\Local\Temp\" />
+    <property name="java.version" value="11.0.14" />
+    <property name="ant.file.type.roshambo-from-maven" value="file" />
+    <property name="user.dir" value="C:\Users\syedf\eclipse-workspace\rps-ant-master" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="maven.test.reports" value="target/test-reports" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="ant.home" value="C:\Users\syedf\.p2\pool\plugins\org.apache.ant_1.10.12.v20211102-1452" />
+    <property name="maven.settings.offline" value="false" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="junit.present" value="true" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.12 compiled on October 13 2021" />
+    <property name="maven.compiler.target" value="1.8" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jdk-11.0.14/bin/server;C:/Program Files/Java/jdk-11.0.14/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\syedf\AppData\Local\Microsoft\WindowsApps;;C:\windows\system32;;." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vm.version" value="11.0.14+8-LTS-263" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="maven.repo.local" value="C:\Users\syedf/.m2/repository" />
+    <property name="java.class.version" value="55.0" />
+    <property name="ant.project.default-target" value="package" />
+  </properties>
+  <testcase classname="com.mcnz.FailMeMaybeTest" name="testMyTrueAssertion" time="0.003" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
